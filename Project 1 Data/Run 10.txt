@@ -1,0 +1,43 @@
+"E:\JDK 15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=52118:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\HypeD\Google Drive\CS 3310 - Design and Analysis of Algorithms\Project 1\out\production\Project 1" matrix_Multi
+For n=2: 
+	Classic Matrix Multiplication time: 2206 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 39678 nanoseconds.
+	Strassen's Matrix Multiplication time: 1822 nanoseconds.
+
+For n=4: 
+	Classic Matrix Multiplication time: 6292 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 37301 nanoseconds.
+	Strassen's Matrix Multiplication time: 22614 nanoseconds.
+
+For n=8: 
+	Classic Matrix Multiplication time: 7763 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 381532 nanoseconds.
+	Strassen's Matrix Multiplication time: 115000 nanoseconds.
+
+For n=16: 
+	Classic Matrix Multiplication time: 59653 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 2509766 nanoseconds.
+	Strassen's Matrix Multiplication time: 559064 nanoseconds.
+
+For n=32: 
+	Classic Matrix Multiplication time: 147287 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 16861097 nanoseconds.
+	Strassen's Matrix Multiplication time: 3416493 nanoseconds.
+
+For n=64: 
+	Classic Matrix Multiplication time: 370235 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 92519877 nanoseconds.
+	Strassen's Matrix Multiplication time: 16888181 nanoseconds.
+
+For n=128: 
+	Classic Matrix Multiplication time: 2778990 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 716448789 nanoseconds.
+	Strassen's Matrix Multiplication time: 113959799 nanoseconds.
+
+For n=256: 
+	Classic Matrix Multiplication time: 30829733 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 5712519043 nanoseconds.
+	Strassen's Matrix Multiplication time: 798386195 nanoseconds.
+
+
+Process finished with exit code -1
